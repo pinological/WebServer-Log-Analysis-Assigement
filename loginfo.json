@@ -1,0 +1,7 @@
+{
+"country" : [{"Mongolia":3},{"Bangladesh":39},{"Singapore":9},{"UnitedStates":75},{"Russia":45},{"Brazil":16},{"Netherlands":6},{"Norway":12},{"Nepal":11}],
+"operatingSys" : [{"Ubuntu":24},{"Windows":60}],
+"WebBrowser" : [{"Chrome":99},{"Firefox":42}],
+"Timeuser" : [{"time00":21},{"time01":39},{"time02":6},{"time03":9},{"time04":21},{"time05":9},{"time06":6},{"time07":9},{"time08":6},{"time09":12},{"time10":18},{"time11":18},
+{"time12":15},{"time13":9},{"time14":24},{"time15":0},{"time16":0},{"time17":0},{"time18":0},{"time19":0},{"time20":0},{"time21":0},{"time22":0},{"time23":0}]
+}
